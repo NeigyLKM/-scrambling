@@ -1,3 +1,7 @@
+#Количество копирований - 1
+#Количество веток - 1
+#Количество разработчиков - 1
+#Регулярность использования - 9
 #  scrambling
  this program do performs operation 'scrambling' for BIN-code (120 bit). 
  
